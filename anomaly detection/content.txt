@@ -1,0 +1,9 @@
+https://towardsdatascience.com/anomaly-detection-in-time-series-sensor-data-86fd52e62538
+
+https://towardsdatascience.com/time-series-anomaly-detection-with-pycaret-706a6e2b2427
+
+https://neptune.ai/blog/anomaly-detection-in-time-series
+
+https://en.wikipedia.org/wiki/Acoustic_emission
+
+<>
